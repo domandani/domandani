@@ -4,5 +4,5 @@
 💬 Feel free to reach out to discuss collaboration opportunities or just have a chat!
 
 ## 🌐 Socials:
-[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](daniel.doman.bp@gmail.com)
+[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.doman.bp@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/domandaniel) 
